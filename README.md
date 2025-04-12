@@ -30,11 +30,11 @@ This is a Spring Boot application designed to simulate a real estate system. The
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/burakermis/real-estate-springboot.git
+    git clone https://github.com/Burakermis/RealEstateSpringBootProject.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd real-estate-springboot
+    cd RealEstateSpringBootProject
     ```
 
 3. Build the project:
@@ -57,3 +57,4 @@ The application demonstrates its functionality through a `main` method located i
 - Average area for each type of house.
 - Filtering houses based on the number of rooms and living rooms.
 
+- 
