@@ -57,4 +57,3 @@ The application demonstrates its functionality through a `main` method located i
 - Average area for each type of house.
 - Filtering houses based on the number of rooms and living rooms.
 
-- 
